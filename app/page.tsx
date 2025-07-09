@@ -20,7 +20,7 @@ export default function Home() {
           <span className="text-xl text-white font-semibold">+995 577 522 599</span>
           <span className="text-xl text-white font-semibold">+995 706 121 412</span>
         </div>
-        <h1 className="text-3xl text-white font-bold">АРЕНДА АВТОМОБИЛЯ</h1>
+        <h1 className="text-3xl text-white font-bold text-center">АРЕНДА АВТОМОБИЛЯ</h1>
       </div>
       <div className="flex flex-wrap justify-center gap-4 lg:flex flex-row">
         {cars.map((carImage, index) => (
