@@ -7,8 +7,6 @@ import car4 from "@/public/WhatsApp Image 2025-07-09 at 09.38.31_1ab5d18b.jpg";
 import car3 from "@/public/WhatsApp Image 2025-07-09 at 09.38.31_d3cb194b.jpg";
 import Image from "next/image";
 
-
-
 const cars = [car1, car3, car4, car5, car];
 
 export default function Home() {
@@ -20,8 +18,8 @@ export default function Home() {
           <a href="tel:+995577522599" className="text-xl text-white font-semibold hover:underline">
             +995 577 522 599
           </a>
-          <a href="tel:+995706121412" className="text-xl text-white font-semibold hover:underline">
-            +995 706 121 412
+          <a href="tel:+995706121414" className="text-xl text-white font-semibold hover:underline">
+            +995 706 121 414
           </a>
         </div>
 
